@@ -94,7 +94,7 @@ API.ENDPOINTS = {
 };
 ```
 
-## 🔧 Usage
+## Usage
 
 1. Start the bot:
 
